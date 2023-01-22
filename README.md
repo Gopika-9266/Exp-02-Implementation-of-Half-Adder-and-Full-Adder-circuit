@@ -42,9 +42,10 @@ Developed by:
 RegisterNumber:  
 */
 Logic symbol & Truthtable
-RTL realization
 
-### Output:
+
+### Output:[ilovepdf_pages-to-jpg.zip](https://github.com/Gopika-9266/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/files/10474673/ilovepdf_pages-to-jpg.zip)
+
 ### RTL
 ### TIMING DIAGRAM
 
