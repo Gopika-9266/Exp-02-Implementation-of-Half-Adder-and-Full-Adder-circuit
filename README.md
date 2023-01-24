@@ -44,10 +44,13 @@ RegisterNumber:
 Logic symbol & Truthtable
 
 
-### Output:[ilovepdf_pages-to-jpg.zip](https://github.com/Gopika-9266/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/files/10474673/ilovepdf_pages-to-jpg.zip)
+### Output:
+### RTL:[Half and full adder_page-0001](https://user-images.githubusercontent.com/122762773/214216806-e383d271-8f26-411f-ab44-7a4c321196f1.jpg),
+        [Half and full adder_page-0003](https://user-images.githubusercontent.com/122762773/214217001-654bcbee-93c3-45e2-98d2-ad7becdebaa1.jpg)
 
-### RTL
-### TIMING DIAGRAM
+### TIMING DIAGRAM:[Half and full adder_page-0002](https://user-images.githubusercontent.com/122762773/214217136-40caa91f-d007-4f01-937f-7a963b9e3494.jpg)
+                   [Half and full adder_page-0004](https://user-images.githubusercontent.com/122762773/214217299-43e5aba7-b957-4c9f-b91c-855e8915f8a2.jpg)
+ 
 
 
 ### TRUTH TABLE 
