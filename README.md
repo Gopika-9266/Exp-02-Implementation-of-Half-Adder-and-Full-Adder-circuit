@@ -65,6 +65,8 @@ Logic symbol & Truthtable
 ### Output:
 ### RTL:
 ![Screenshot (13)](https://user-images.githubusercontent.com/122762773/214617609-f8418557-71a3-479f-a3b8-ec42a29ddba1.png)
+
+
 ![Screenshot (16)](https://user-images.githubusercontent.com/122762773/214617794-8307f2b9-3ef3-454f-bf23-5923f7f9ca47.png)
 
 
@@ -72,6 +74,8 @@ Logic symbol & Truthtable
 ### TIMING DIAGRAM:
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/122762773/214618118-41d8584d-5724-4611-8694-74cbee63608d.png)
+
+
 ![Screenshot (17)](https://user-images.githubusercontent.com/122762773/214618185-ce16d3a3-7e6e-4bb2-8a3c-efd464e4ee7b.png) 
 
 ### Result:
