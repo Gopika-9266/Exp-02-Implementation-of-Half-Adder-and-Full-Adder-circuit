@@ -60,7 +60,7 @@ Developed by: Gopika.R
 RegisterNumber: 22009266
 ```
 
-Logic symbol & Truthtable
+Logic symbol & Truthtable:
 
 ![half-adder2](https://user-images.githubusercontent.com/122762773/214617065-cba1d22c-bb6f-40f9-9045-26fbdae550c5.png)
 ![full-adder2](https://user-images.githubusercontent.com/122762773/214617416-2262485f-eedf-456f-b674-7fa074270292.png)
